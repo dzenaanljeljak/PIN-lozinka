@@ -21,6 +21,7 @@ Projekat je napravljen kao vježba za:
 - Flowcode
 - Mikrokontroler (zavisno od konfiguracije projekta)
 - Tastatura ili tasteri za unos lozinke
+- LED diode
 - LCD displej
 
 ## Funkcionalnosti
